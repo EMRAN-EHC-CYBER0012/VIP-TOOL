@@ -4,4 +4,4 @@
 
 import os
 import enn
-enn.loggit()
+enn.loging()
